@@ -1,0 +1,3652 @@
+[
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 156
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 158
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 166
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 164
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 188
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 204
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 220
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 194
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 170
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 170
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 163
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 152
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 138
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 154
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 152
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 155
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 162
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 172
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 176
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 170
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 156
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 148
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 156
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 162
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 189
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 198
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 222
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 200
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-01-31",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 198
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 224
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 204
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 190
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 189
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 180
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 186
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 188
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 194
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 186
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 180
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 166
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 190
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 184
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 182
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 192
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 194
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 190
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": 365,
+		"TMIN": 210
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 194
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 196
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 184
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 196
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 204
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 196
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 200
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-02-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 192
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 195
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 216
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 226
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 238
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 245
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 3,
+		"TMAX": null,
+		"TMIN": 214
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 216
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 218
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 230
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 241
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 244
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 230
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 230
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 228
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 222
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 170,
+		"TMAX": null,
+		"TMIN": 212
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 3,
+		"TMAX": null,
+		"TMIN": 224
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 228
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 224
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 205
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 194
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 212
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 223
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 220
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 230
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-03-31",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 220
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 221
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 226
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 224
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 230
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 228
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 255
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 258
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 266
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 150,
+		"TMAX": null,
+		"TMIN": 222
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 237
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 266
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 240
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 240
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 252
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 3,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-04-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 252
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 253
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 274
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 276
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 274
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 272
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 280
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 285
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 276
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 280
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 286
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 266
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 264
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 267
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 278
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 280
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 282
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 276
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 282
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 276
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-05-31",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 278
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 289
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 295
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": 347,
+		"TMIN": 286
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": 347,
+		"TMIN": 290
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": 347,
+		"TMIN": 288
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 286
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 292
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 296
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 41,
+		"TMAX": null,
+		"TMIN": 245
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 279
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 61,
+		"TMAX": 356,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": 356,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 290
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 41,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 286
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 286
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 284
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 284
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 286
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 119,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1760,
+		"TMAX": 290,
+		"TMIN": 236
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 470,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 909,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 371,
+		"TMAX": 304,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1219,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-06-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 470,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1110,
+		"TMAX": null,
+		"TMIN": 242
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 221,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 450,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 201,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 899,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 691,
+		"TMAX": null,
+		"TMIN": 225
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 541,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 630,
+		"TMAX": 311,
+		"TMIN": 258
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 71,
+		"TMAX": 312,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 130,
+		"TMAX": null,
+		"TMIN": 262
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 61,
+		"TMAX": 318,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 276
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 10,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 531,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 521,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 41,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 259,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1199,
+		"TMAX": null,
+		"TMIN": 244
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 531,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 991,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 290,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 2040,
+		"TMAX": null,
+		"TMIN": 238
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 490,
+		"TMAX": null,
+		"TMIN": 249
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1011,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 559,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 861,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1450,
+		"TMAX": 282,
+		"TMIN": 244
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1191,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 361,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 249,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-07-31",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 99,
+		"TMAX": 306,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 30,
+		"TMAX": null,
+		"TMIN": 258
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": 308,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 10,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 41,
+		"TMAX": null,
+		"TMIN": 265
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 61,
+		"TMAX": null,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 3,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 30,
+		"TMAX": null,
+		"TMIN": 275
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 5,
+		"TMAX": 314,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": 313,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 51,
+		"TMAX": 313,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": 316,
+		"TMIN": 258
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 10,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 10,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 272
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 5,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 41,
+		"TMAX": null,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 41,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 249,
+		"TMAX": null,
+		"TMIN": 252
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 61,
+		"TMAX": null,
+		"TMIN": 252
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 30,
+		"TMAX": null,
+		"TMIN": 261
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 450,
+		"TMAX": null,
+		"TMIN": 240
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 249,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 231,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 71,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 8,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-08-31",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 266
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 10,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 10,
+		"TMAX": null,
+		"TMIN": 242
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 3,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": 320,
+		"TMIN": 257
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 79,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 1110,
+		"TMAX": null,
+		"TMIN": 238
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 759,
+		"TMAX": null,
+		"TMIN": 242
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 265
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 266
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 3,
+		"TMAX": null,
+		"TMIN": 270
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 130,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 551,
+		"TMAX": null,
+		"TMIN": 238
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 30,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 279,
+		"TMAX": null,
+		"TMIN": 256
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 109,
+		"TMAX": null,
+		"TMIN": 252
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 109,
+		"TMAX": null,
+		"TMIN": 258
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 191,
+		"TMAX": 326,
+		"TMIN": 257
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 191,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 10,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 160,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 99,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 5,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 79,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 300,
+		"TMAX": null,
+		"TMIN": 239
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 511,
+		"TMAX": null,
+		"TMIN": 247
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-09-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 61,
+		"TMAX": null,
+		"TMIN": 244
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 89,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 30,
+		"TMAX": null,
+		"TMIN": 244
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 247
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 262
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 251
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 261
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 246
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 258
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": 348,
+		"TMIN": 264
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 266
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 262
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 268
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 240
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 255
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 260
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 244
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 234
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 224
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 214
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 216
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 215
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 228
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-10-31",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 230
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": 363,
+		"TMIN": 225
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 220
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 226
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 240
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 234
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 228
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 214
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 238
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": 348,
+		"TMIN": 254
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 250
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 248
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 236
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 236
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 224
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 226
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 216
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 216
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 224
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 218
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 244
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 242
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 228
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 216
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 228
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 240
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 51,
+		"TMAX": null,
+		"TMIN": 227
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 20,
+		"TMAX": null,
+		"TMIN": 220
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": 0,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 210
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-11-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 197
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-01",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 213
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-02",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 212
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-03",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 231
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-04",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 235
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-05",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 238
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-06",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 233
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-07",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 223
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-08",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 220
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-09",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 212
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-10",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 213
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-11",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 216
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-12",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 205
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-13",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 194
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-14",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 205
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-15",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 202
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-16",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 194
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-17",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 202
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-18",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 236
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-19",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-20",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 212
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-21",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 210
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-22",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 219
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-23",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 196
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-24",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 189
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-25",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-26",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": null
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-27",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 198
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-28",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 198
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-29",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 202
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-30",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 200
+	},
+	{
+		"STATION": "IN012070800",
+		"DATE": "2023-12-31",
+		"LATITUDE": 19.117,
+		"LONGITUDE": 72.85,
+		"NAME": "BOMBAY SANTACRUZ, IN",
+		"PRCP": null,
+		"TMAX": null,
+		"TMIN": 200
+	}
+]
